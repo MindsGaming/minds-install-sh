@@ -1,4 +1,4 @@
-##These scripts have only been tested for Ubuntu
+## These scripts have only been tested for Ubuntu
 - This script has only been tested for Ubuntu based systems.
 - This will install all needed applications needed for Minds like docker.
 
