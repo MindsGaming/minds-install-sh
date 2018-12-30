@@ -1,24 +1,33 @@
-This script installs the Minds source code found at
-https://github.com/minds
- AS ROOT!!!!
+This script installs the Minds source code AS ROOT!!!!
+
+This script has only been tested for Ubuntu based systems.
 
 ---
-If you wish to install Minds with user privilages please refer to our Gist List (https://gist.github.com/MindsGaming) or blog posted on minds @MindsGaming or ask in support under your icon.
+If you wish to install Minds with user privilages please refer to our Gist List or Minds source code.
 
+
+- [Minds Github](https://github.com/Minds/) 
+- [Gist](https://gist.github.com/MindsGaming
+
+## Development Installation
 You can easily run and install this script with curl under sudo or su privliges 
 
-'source <(curl -s https://raw.githubusercontent.com/MindsGaming/minds-install-sh/master/minds-install.sh)'
+
+1. Run `sudo su` in order to install the front and engine repositories
+2. Run `source <(curl -s https://raw.githubusercontent.com/MindsGaming/minds-install-sh/master/minds-install.sh)`
+3. Run `cd minds` 
+4. Run `docker-compose up -d nginx`
+5. Navigate to `http://localhost:8080`
+
+---- 
 
 You can also download this git, extact the files and run it under root user su 
 
-'sudo su'
-
-and then run
-
-'sh /file/loaction/minds-install.sh'
-
+1. Run `sudo su` in order to install the front and engine repositories
+2. Run `sh /loacation/to/file/minds-install.sh`
 
 Make sure to check out the offical docs and install guides on https://github.com/minds
+
 Remember this is a community project not a Minds project. 
 
 
