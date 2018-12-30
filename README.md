@@ -25,7 +25,7 @@
     5. Run docker-compose up -d nginx to launch the docker 
     6. Navigate to http://localhost:8080 to view your develpment instance. 
 
-## Official docs and install guides
+## Official docs and install guides for Minds
 https://github.com/minds
 
 ## Remember this is a community project not a Minds project.
