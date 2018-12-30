@@ -30,7 +30,7 @@ https://github.com/minds
 
 ## Remember this is a community project not a Minds project.
 
--Community Support
+- Community Support
 support@mocsi.org
 
 - Project Creator 
