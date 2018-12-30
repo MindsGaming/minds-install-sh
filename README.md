@@ -1,4 +1,4 @@
-## These scripts have only been tested for Ubuntu
+## minds-install-sh
 - This script has only been tested for Ubuntu based systems.
 - This will install all needed applications needed for Minds like docker.
 
