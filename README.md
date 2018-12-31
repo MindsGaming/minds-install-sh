@@ -4,8 +4,8 @@
 
 ## These scripts will install “Minds” from its git.
 
-    • [Minds (https://github.com/Minds/)  
-    • [Gist] (https://gist.github.com/MindsGaming) 
+    • [Minds](https://github.com/Minds/)  
+    • [Gist](https://gist.github.com/MindsGaming) 
 
 ## Development Installation (User)
 
