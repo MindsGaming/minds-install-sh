@@ -1,6 +1,6 @@
 ## minds-install-sh
 - This script has only been tested for Ubuntu/Debian based systems.
-- This will install all applications needed to run Minds in Docker
+- This will install all applications needed to run Minds on Docker
 
 ## These scripts will install “Minds” from its git repository.
 
@@ -31,7 +31,7 @@ To customize the minds folder location you must move the script file to the corr
 https://github.com/minds
 
 
-## Remember this is a community project not a Minds project.
+## Note that this is a community project not a Minds project.
 - Community Support
 support@mocsi.org
 
