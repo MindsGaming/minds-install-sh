@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "YOU MUST BE ROOT USER, ARE YOU ROOT!?? This script will fail otherwise ^" 
+echo "YOU MUST BE ROOT USER, ARE YOU ROOT!?? This script will fail otherwise" 
 apt-get install docker-compose -y
 apt-get install docker-containerd -y
 apt-get install docker-registry -y
