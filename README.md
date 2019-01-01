@@ -24,11 +24,12 @@
           
   ## Customize folder location 
   
-To customize the minds folder location you must move the minds-instal.sh file before running.
+To customize the minds folder location to home you must move the minds-instal.sh file before running.
 
 - Open folder 'cd minds-install-sh'
-- move sh to home folder `mv minds-install.sh $HOME`
-- Run 'sudo sh /home/minds-install.sh' where /home/minds-install.sh' is the file name locations.
+- move sh to home folder `mv ./minds-install.sh $HOME`
+- 'cd' to go back home
+- Run 'sudo sh minds-install.sh'
 
 ## Official Minds repositories, holding source code, documentation and install guides
 
